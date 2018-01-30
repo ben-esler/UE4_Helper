@@ -1,4 +1,4 @@
-##Install Guide:
+Install Guide:
 1. Copy UE4_Helper.py to \maya\2017\scripts\
 2. Open Maya
 3. Open Maya's Script Editor
@@ -7,5 +7,5 @@
 import UE4Helper
 ue4helper = UE4Helper.UE4Helper()
 ```
-5. Click File > Save Script To Shell...
+5. Click File > Save Script To Shelf...
 6. Click new shelf icon
